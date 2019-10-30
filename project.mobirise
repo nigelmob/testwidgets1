@@ -39,7 +39,8 @@
     "siteUrl": "undefined",
     "pwa-switcher": false,
     "uniqCompNum": 7,
-    "versionPublish": "4.11.4"
+    "versionPublish": "4.11.4",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -94,7 +95,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Colleges Widget</h1>\n  <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JRc3rK1ldHWIFps\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Colleges Live Screen Dashboard</h1>\n  <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JRc3rK1ldHWIFps\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -108,7 +109,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Faculty of Arts And Humanities Widget</h1>\n   <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JRd7dwchvx-eH9G\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Faculty of Arts And Humanities Live Screen</h1>\n   <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JRd7dwchvx-eH9G\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -122,7 +123,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Faculty of Sciences Widget</h1>\n    <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JRd7dwchvx-eH9P\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Faculty of Sciences Live Screen</h1>\n    <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JRd7dwchvx-eH9P\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -136,7 +137,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Social Sciences Widget</h1>\n    <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JReq7OjZ9Qx031K\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">Social Sciences Live Screen</h1>\n    <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JReq7OjZ9Qx031K\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -150,7 +151,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">University Support Widget</h1>\n    <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JReq7OjZ9Qx031U\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1 class=\"display-1\">University Support Live Screen</h1>\n    <iframe scrolling=\"no\" src=\"https://public.ducky.eco/en/challenge/-LsN7JVEFshEIFKhChBE/-LsN7JReq7OjZ9Qx031U\" style=\"min-height: 500px;\" title=\"challengeWidget\" width=\"75%\"></iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
